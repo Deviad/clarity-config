@@ -5,3 +5,7 @@ management:
     web:
       exposure:
         include: "*"
+
+infura:
+  endpoint: <your endpoint>
+
