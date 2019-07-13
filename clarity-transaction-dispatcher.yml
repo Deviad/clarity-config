@@ -7,5 +7,5 @@ management:
         include: "*"
 
 infura:
-  endpoint: <your endpoint>
+  endpoint: ***REMOVED***
 
