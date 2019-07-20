@@ -7,5 +7,7 @@ management:
         include: "*"
 
 infura:
-  endpoint: ***REMOVED***
+  httpsEndpoint: <infura_https_endpoint>
+  wsEndpoint: <infura_ws_endpoint>
+
 
